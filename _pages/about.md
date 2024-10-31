@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Computer Engineering, University of Virginia <a href='#'>University of virginia </a>
+subtitle: Ph.D. Candidate in Computer Engineering, University of Virginia <a href='https://keyinfra.cs.virginia.edu'>University of virginia </a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[Mail](mailto:yz6me@virginia.edu)</p>
+    <a href="mailto:yz6me@virginia.edu">
+      <img src="emailicon.png" alt="Email Icon" style="width: 40px; height: 30px; vertical-align: middle;"></a>
+    <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
