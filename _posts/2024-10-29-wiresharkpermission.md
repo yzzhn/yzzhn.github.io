@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wireshark permission issue
-date: 2024-10-31
+date: 2024-10-29
 description: tips on how to resolve Wireshark permission issue on mac
 tags: wireshark
 categories: tips
