@@ -3,24 +3,18 @@ layout: about
 title: About Me
 permalink: /
 subtitle: 
-  Ph.D. Candidate in Computer Engineering at <a href='https://keyinfra.cs.virginia.edu'>University of virginia </a>, advised by <a href='https://engineering.virginia.edu/faculty/yixin-sun'> Prof. Yixin Sun </a>.
+  Ph.D. candidate in Computer Engineering at <a href='https://keyinfra.cs.virginia.edu'>University of virginia </a>, advised by <a href='https://engineering.virginia.edu/faculty/yixin-sun'> Prof. Yixin Sun </a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
-    <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-
-    Email me to collaborate!
 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 I am actively seeking Summer 2025 internship opportunities. For details, please visit my <a href='/cv'>CV page</a>.
@@ -39,4 +33,7 @@ I leverage advanced machine learning techniques and time series analysis to tack
 
 **Large-Scale Internet Measurement.** I investigate security vulnerabilities and privacy practices of various network protocols and applications through large-scale data analysis.
 
+
+### Contacts:
+ <a href="mailto:yz6me@virginia.edu" title="email"><i class="fa-solid fa-envelope"></i>Email me to collaborate!</a>
 
