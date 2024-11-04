@@ -31,65 +31,7 @@
       "endDate": "2015-06-01"
     }
   ],
-  "research experience": [
-      {
-        "name": "University of Virginia",
-        "position": "Graduate Research Assistant",
-        "startDate": "2019-01-01",
-        "endDate": "2026-02-01",
-        "summary": "Research focus: network security, machine learning, and internet measurement.",
-        "highlights": [
-          "Developing machine learning methods to address challenges with limited, noisy, and imbalanced data in real-world network environments.",
-          "Leveraging large language models (LLMs) to tackle practical issues related to network security and privacy.",
-          "Enhancing network security in large-scale, real-world networks using machine learning, time-series analysis and graph-based techniques (published in ACSAC 23).",
-          "Conducting comprehensive assessments of network security vulnerabilities and privacy malpractices (published in IMC 23, SPW 24, and forthcoming in IMC 24)."
-        ]
-      },
-      {
-        "name": "University of Virginia",
-        "position": "Graduate Research Assistant",
-        "startDate": "2017-06-01",
-        "endDate": "2018-12-01",
-        "summary": "Research experience: robotics, cloud, network.",
-      }
-    ],
-  "internships": [
-      {
-        "name": "Maker Collider",
-        "position": "Software Engineer Intern",
-        "startDate": "2015-09-01",
-        "endDate": "2015-12-01",
-        "summary": "Smart IoT device software development using Arduino.",
-      }
-    ],
-    "skills": [
-    {
-      "name": "Network and Cybersecurity",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Network protocols, network security and privacy.",
-        "DNS, TLS PKI, Internet of Things (IoT).",
-        "Intrusion detection systems (IDS).",
-        "Traffic analysis, monitoring, profiling and fingerprinting.",
-        "Privacy-preserving network traffic anonymization.",
-        "Malware and botnet detection.",
-        "Intrusion and anomaly detection."
-      ]
-    },
-    {
-      "name": "Machine Learning and Data Analysis",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Applied machine learning (ML) and deep learning (DL).",
-        "Applied Large Language Model (LLM) applications. ",
-        "Data extraction, transformation, and loading (ETL) processes. ",
-        "Time series analysis"
-      ]
-    }
-  ],
-  "recent publications": [
+  "publications": [
     {
       "name": "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective",
       "publisher": "2024 ACM Internet Measurement Conference (IMC)",
