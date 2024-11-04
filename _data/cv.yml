@@ -72,12 +72,12 @@
     - title: Machine Learning and Data Science
       year: Experienced
       description:
-       - Apply ML/DL models in network security and other applications.
-       - Conduct large-scale network traffic analysis.
-       - Leverage time-series and graph analysis techniques to uncover patterns in network data.
-       - Develop solutions for real-world imbalanced datasets using self-learning and active learning methodologies.
-       - Employ large language models (LLMs) for semantic parsing of network logs and time-series forecasting.
-       - Develop and manage end-to-end large-scale data extraction, transformation, and loading (ETL) processes.
+        - Apply ML/DL models in network security and other applications.
+        - Conduct large-scale network traffic analysis.
+        - Leverage time-series and graph analysis techniques to uncover patterns in network data.
+        - Develop solutions for real-world imbalanced datasets using self-learning and active learning methodologies.
+        - Employ large language models (LLMs) for semantic parsing of network logs and time-series forecasting.
+        - Develop and manage end-to-end large-scale data extraction, transformation, and loading (ETL) processes.
 
     - institution: Python (Sklearn, JupyterLab, Pandas, PyTorch, TensorFlow, Numpy, PySpark), Spark, SQL, Git, C++
       year: Language and Coding
@@ -89,18 +89,17 @@
 - title: Recent Publications
   type: time_table
   contents:
-      - title: See the <a href="https://yzzhn.github.io/publications/">Publications</a> page for a full list of publications.
-      year: 
+    - title: See the <a href="https://yzzhn.github.io/publications/">Publications</a> page for a full list of publications.
+    year: 
 
-      - title: "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective."
-      year: IMC 2024
-     
-      - title: "Mutual TLS in Practice: A Deep Dive into Certificate Configurations and Privacy Issues."
-      year: IMC 2024
+    - title: "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective."
+    year: IMC 2024
+    
+    - title: "Mutual TLS in Practice: A Deep Dive into Certificate Configurations and Privacy Issues."
+    year: IMC 2024
 
-      - title: "Intercepting Bluetooth Traffic from Wearable Health Devices"
-      year: SPW 2024
+    - title: "Intercepting Bluetooth Traffic from Wearable Health Devices"
+    year: SPW 2024
 
-      - title: "lobal Analysis with Aggregation-based Beaconing Detection across Large Campus Networks."
-      year: ACSAC 2023
-
+    - title: "lobal Analysis with Aggregation-based Beaconing Detection across Large Campus Networks."
+    year: ACSAC 2023
