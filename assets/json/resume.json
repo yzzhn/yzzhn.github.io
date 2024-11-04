@@ -87,7 +87,7 @@
       ]
     }
   ],
-  "recent publications": [
+  "publications": [
     {
       "name": "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective",
       "publisher": "2024 ACM Internet Measurement Conference (IMC)",
@@ -105,6 +105,13 @@
       "publisher": "2024 IEEE Security and Privacy Workshops (SPW)",
       "releaseDate": "2024-05-22",
       "url": "https://ieeexplore.ieee.org/document/10579530"
+    },
+    {
+      "name": "Global Analysis with Aggregation-based Beaconing Detection across Large Campus Networks",
+      "publisher": "2023 Annual Computer Security Applications Conference (ACSAC)",
+      "releaseDate": "2023-12-06",
+      "url": "https://doi.org/10.1145/3627106.3627126",
+      "summary": "We present a new approach to effectively detect and prioritize malicious beaconing activities in large campus networks by profiling the server activities through aggregated signals across multiple traffic protocols and networks. "
     },
     {
       "name": "Global Analysis with Aggregation-based Beaconing Detection across Large Campus Networks",

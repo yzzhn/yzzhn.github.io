@@ -1,97 +1,106 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Yizhe Zhang
+    - name: Email
+      value: yz6me[at]virginia[dot]edu
+    - name: Summary
+      value: Ph.D. candidate at University of Virginia, specializing in network security and machine learning.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+    - title: PhD - Computer Engineering
+      institution: University of Virginia, Virginia, US
+      year: 2019 - Present
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: MSc - Computer Engineering
+      institution: University of Virginia, Virginia, US
+      year: 2016 - 2018
+    - title: BSc - Physics
+      institution: East Chine Normal University, Shanghai, China
+      year: 2011 - 2015
+    
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Graduate Research Assistant 
+      institution: University of Virginia, Virginia, US
+      year: 2019 - present
+      description: 
+        - "Research focus: network security, machine learning, and internet measurement."
+        - "Enhance network security in real-world networks using machine learning, time-series analysis and graph-based techniques.",
+        - "Conduct comprehensive assessments of network security vulnerabilities and privacy malpractices."
+        - "Leverage large language models (LLMs) to tackle practical issues related to network security and privacy.",
+    - title: Graduate Research Assistant 
+      institution: University of Virginia, Virginia, US
+      year: 2017 - 2018
+      description: 
+        - "Research experience: robotics, cloud, network. "
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Internships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Software Engineer Intern
+      institution: Maker Collider, Shanghai, China
+      year: 09/2015 - 12/2015
+      description: 
+        - "Smart IoT device software development using Arduino."
 
-- title: Honors and Awards
+
+- title: Technical Skills
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Network and Cybersecurity
+      year: Knowledgeable
+      description:
+        - "Malware, botnets, Intrusion Detection System (IDS) and Internet of Things (IoT) security" 
+        - "Network protocols such as DNS (Domain Name System), certificate PKI (Public Key Infrastructure)"
+        - Traffic analysis, monitoring, profiling and fingerprinting.
+        - Privacy-preserving network traffic anonymization.
+        - Malware and botnet detection.
+        - Intrusion and anomaly detection.
+      
+    - title: Machine Learning and Data Science
+      year: Experienced
+      description:
+       - Apply ML/DL models in network security and other applications.
+       - Conduct large-scale network traffic analysis.
+       - Leverage time-series and graph analysis techniques to uncover patterns in network data.
+       - Develop solutions for real-world imbalanced datasets using self-learning and active learning methodologies.
+       - Employ large language models (LLMs) for semantic parsing of network logs and time-series forecasting.
+       - Develop and manage end-to-end large-scale data extraction, transformation, and loading (ETL) processes.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - institution: Python (Sklearn, JupyterLab, Pandas, PyTorch, TensorFlow, Numpy, PySpark), Spark, SQL, Git, C++
+      year: Language and Coding
+    - institution: Wireshark, OpenSSL, Nginx, Zeek(Bro)
+      year: Network
+    - institution: Linux, Neo4j, Docker, Windows, AWS, SLURM
+    - year: Others
 
-- title: Other Interests
-  type: list
+- title: Recent Publications
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      - title: See the <a href="https://yzzhn.github.io/publications/">Publications</a> page for a full list of publications.
+      year: 
+
+      - title: "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective."
+      year: IMC 2024
+     
+      - title: "Mutual TLS in Practice: A Deep Dive into Certificate Configurations and Privacy Issues."
+      year: IMC 2024
+
+      - title: "Intercepting Bluetooth Traffic from Wearable Health Devices"
+      year: SPW 2024
+
+      - title: "lobal Analysis with Aggregation-based Beaconing Detection across Large Campus Networks."
+      year: ACSAC 2023
+
