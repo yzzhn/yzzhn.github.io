@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at <a href="https://safe-things-2024.github.io/"> SafeThings 2024</a>. 
+We have one paper accepted at <a href="https://safe-things-2024.github.io/"> SafeThings 2024</a>. 
