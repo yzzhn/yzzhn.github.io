@@ -1,4 +1,4 @@
-- title: Basics
+- title: General Information
   type: map
   contents:
     - name: Full Name
@@ -14,13 +14,6 @@
     - title: PhD - Computer Engineering
       institution: University of Virginia, Virginia, US
       year: 2019 - Present
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
     - title: MSc - Computer Engineering
       institution: University of Virginia, Virginia, US
       year: 2016 - 2018
@@ -36,9 +29,9 @@
       year: 2019 - present
       description: 
         - "Research focus: network security, machine learning, and internet measurement."
-        - "Enhance network security in real-world networks using machine learning, time-series analysis and graph-based techniques.",
+        - "Enhance network security in real-world networks using machine learning, time-series analysis and graph-based techniques."
         - "Conduct comprehensive assessments of network security vulnerabilities and privacy malpractices."
-        - "Leverage large language models (LLMs) to tackle practical issues related to network security and privacy.",
+        - "Leverage large language models (LLMs) to tackle practical issues related to network security and privacy."
     - title: Graduate Research Assistant 
       institution: University of Virginia, Virginia, US
       year: 2017 - 2018
@@ -62,12 +55,12 @@
     - title: Network and Cybersecurity
       year: Knowledgeable
       description:
-        - "Malware, botnets, Intrusion Detection System (IDS) and Internet of Things (IoT) security" 
-        - "Network protocols such as DNS (Domain Name System), certificate PKI (Public Key Infrastructure)"
-        - Traffic analysis, monitoring, profiling and fingerprinting.
-        - Privacy-preserving network traffic anonymization.
-        - Malware and botnet detection.
-        - Intrusion and anomaly detection.
+        - "Malware, botnets, Intrusion Detection System (IDS) and Internet of Things (IoT) security." 
+        - "Network protocols such as DNS (Domain Name System), certificate PKI (Public Key Infrastructure)."
+        - "Traffic analysis, monitoring, profiling and fingerprinting."
+        - "Privacy-preserving network traffic anonymization."
+        - "Malware and botnet detection."
+        - "Intrusion and anomaly detection."
       
     - title: Machine Learning and Data Science
       year: Experienced
@@ -84,13 +77,12 @@
     - institution: Wireshark, OpenSSL, Nginx, Zeek(Bro)
       year: Network
     - institution: Linux, Neo4j, Docker, Windows, AWS, SLURM
-    - year: Others
+      year: Others
 
 - title: Recent Publications
   type: time_table
   contents:
     - title: See the <a href="https://yzzhn.github.io/publications/">Publications</a> page for a full list of publications.
-    year: 
 
     - title: "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective."
     year: IMC 2024
