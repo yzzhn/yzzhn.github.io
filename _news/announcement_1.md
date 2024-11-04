@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-01 15:59:00-0400
+date: 2024-03-25 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our group publishes 2 paper at ACM IMC 2024 conferences.
+Paper accepted at <a href="https://safe-things-2024.github.io/"> SafeThings 2024</a>. 
