@@ -1,6 +1,7 @@
 {
   "basics": {
     "name": "Yizhe Zhang",
+    "label": "Ph.D. Candidate",
     "image": "",
     "email": "",
     "summary": "Ph.D. candidate at University of Virginia, specializing in network security and machine learning."
@@ -31,6 +32,38 @@
       "endDate": "2015-06-01"
     }
   ],
+  "experiences": [
+      {
+        "name": "University of Virginia",
+        "position": "Graduate Research Assistant",
+        "url":"",
+        "startDate": "2019-01-01",
+        "endDate": "2026-02-01",
+        "summary": "Research focus: network security, machine learning, and internet measurement.",
+        "highlights": [
+          "Developing machine learning methods to address challenges with limited, noisy, and imbalanced data in real-world network environments.",
+          "Leveraging large language models (LLMs) to tackle practical issues related to network security and privacy.",
+          "Enhancing network security in large-scale, real-world networks using machine learning, time-series analysis and graph-based techniques (published in ACSAC 23).",
+          "Conducting comprehensive assessments of network security vulnerabilities and privacy malpractices (published in IMC 23, SPW 24, and forthcoming in IMC 24)."
+        ]
+      },
+      {
+        "name": "University of Virginia",
+        "position": "Graduate Research Assistant",
+        "url":"",
+        "startDate": "2017-06-01",
+        "endDate": "2018-12-01",
+        "summary": "Research experience: robotics, cloud, network."
+      },
+      {
+        "name": "Maker Collider",
+        "position": "Software Engineer Intern",
+        "url":"",
+        "startDate": "2015-09-01",
+        "endDate": "2015-12-01",
+        "summary": "Smart IoT device software development using Arduino."
+      }
+    ],
   "publications": [
     {
       "name": "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective",
@@ -57,6 +90,5 @@
       "url": "https://doi.org/10.1145/3627106.3627126",
       "summary": "We present a new approach to effectively detect and prioritize malicious beaconing activities in large campus networks by profiling the server activities through aggregated signals across multiple traffic protocols and networks. "
     } 
-  ]
-  
+  ]  
 }
