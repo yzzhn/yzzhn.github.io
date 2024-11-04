@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: "* denotes equal contribution and joint lead authorship."
 nav: true
 nav_order: 1
 ---
