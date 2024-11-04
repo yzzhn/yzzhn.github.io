@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Yizhe Zhang
     - name: Email
       value: yz6me[at]virginia[dot]edu
@@ -43,40 +43,39 @@
   type: time_table
   contents:
     - title: Software Engineer Intern
-      institution: Maker Collider, Shanghai, China
+      maindescription: Maker Collider, Shanghai, China
       year: 09/2015 - 12/2015
       description: 
         - "Smart IoT device software development using Arduino."
 
 
 - title: Technical Skills
-  type: time_table
+  type: map
   contents:
     - title: Network and Cybersecurity
       year: Knowledgeable
       description:
-        - "Malware, botnets, Intrusion Detection System (IDS) and Internet of Things (IoT) security." 
-        - "Network protocols such as DNS (Domain Name System), certificate PKI (Public Key Infrastructure)."
-        - "Traffic analysis, monitoring, profiling and fingerprinting."
-        - "Privacy-preserving network traffic anonymization."
+        - "Network protocols, DNS, TLS, certificate PKI."
         - "Malware and botnet detection."
         - "Intrusion and anomaly detection."
+        - "Internet of Things (IoT) security." 
+        - "Traffic analysis, monitoring, and profiling."
+        - "Privacy-preserving network traffic anonymization."
       
     - title: Machine Learning and Data Science
       year: Experienced
       description:
-        - Apply ML/DL models in network security and other applications.
-        - Conduct large-scale network traffic analysis.
-        - Leverage time-series and graph analysis techniques to uncover patterns in network data.
-        - Develop solutions for real-world imbalanced datasets using self-learning and active learning methodologies.
-        - Employ large language models (LLMs) for semantic parsing of network logs and time-series forecasting.
-        - Develop and manage end-to-end large-scale data extraction, transformation, and loading (ETL) processes.
+        - Applied ML/DL models in network security and other applications.
+        - Large-scale network traffic analysis.
+        - Time-series and graph analysis.
+        - Applied large language models (LLMs) for time-series forecasting.
+        - End-to-end large-scale data ETL processes.
 
-    - institution: Python (Sklearn, JupyterLab, Pandas, PyTorch, TensorFlow, Numpy, PySpark), Spark, SQL, Git, C++
-      year: Language and Coding
-    - institution: Wireshark, OpenSSL, Nginx, Zeek(Bro)
+    - description: Python (Sklearn, JupyterLab, Pandas, PyTorch, TensorFlow, Numpy, PySpark), Spark, SQL, Git, C++
+      year: Coding
+    - description: Wireshark, OpenSSL, Nginx, Zeek(Bro)
       year: Network
-    - institution: Linux, Neo4j, Docker, Windows, AWS, SLURM
+    - description: Linux, Neo4j, Docker, Windows, AWS, SLURM
       year: Others
 
 - title: Recent Publications

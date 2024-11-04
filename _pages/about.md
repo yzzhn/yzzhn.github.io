@@ -35,5 +35,5 @@ I leverage advanced machine learning techniques and time series analysis to tack
 
 
 ### Contacts:
- <a href="mailto:yz6me@virginia.edu" title="email"><i class="fa-solid fa-envelope"></i> &ensp Email me to collaborate!</a>
+ <a href="mailto:yz6me@virginia.edu" title="email"><i class="fa-solid fa-envelope"></i>   Email me to collaborate!</a>
 
