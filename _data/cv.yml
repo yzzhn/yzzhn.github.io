@@ -85,13 +85,13 @@
     - title: See the <a href="https://yzzhn.github.io/publications/">Publications</a> page for a full list of publications.
 
     - title: "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective."
-    year: IMC 2024
+      year: IMC 2024
     
     - title: "Mutual TLS in Practice: A Deep Dive into Certificate Configurations and Privacy Issues."
-    year: IMC 2024
+      year: IMC 2024
 
     - title: "Intercepting Bluetooth Traffic from Wearable Health Devices"
-    year: SPW 2024
+      year: SPW 2024
 
-    - title: "lobal Analysis with Aggregation-based Beaconing Detection across Large Campus Networks."
-    year: ACSAC 2023
+    - title: "Global Analysis with Aggregation-based Beaconing Detection across Large Campus Networks."
+      year: ACSAC 2023
