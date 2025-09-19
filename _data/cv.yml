@@ -39,14 +39,15 @@
         - "Research experience: robotics, cloud, network. "
 
 
-- title: Internships
+- title: Internship
   type: time_table
   contents:
-    - title: Software Engineer Intern
-      maindescription: Maker Collider, Shanghai, China
-      year: 09/2015 - 12/2015
+    - title: Graduate Research Intern
+      maindescription: Verisign Inc, VA, USA
+      year: 05/2025 - 08/2025
       description: 
-        - "Smart IoT device software development using Arduino."
+        - "Evaluate DNS integrations including blockchain-based systems."
+        - "Support IETF draft."
 
 
 - title: Technical Skills
